@@ -1,6 +1,6 @@
 {
-    "welcome_message": "Changed Content",
+    "welcome_message": "A sample calculator app",
     "first_number" : 5,
     "second_number" : 5,
-    "opration" : "+"    
+    "operation" : "+"    
 }

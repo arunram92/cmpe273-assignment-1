@@ -1,5 +1,5 @@
 {
-    "welcome_message": "A sample calculator app",
+    "welcome_message": "A sample flask calculator app. This is using dev-config.json to get the values. Add '/test' to the url to get values from test-config.json",
     "first_number" : 5,
     "second_number" : 5,
     "operation" : "+"    
